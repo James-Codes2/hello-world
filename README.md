@@ -1,2 +1,3 @@
-# CSE360 Hello World git demo
-# James Evans
+#hello-world 
+CSE360 Hello World git demo
+James Evans
